@@ -1,0 +1,8 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+    </general>
+  </component>
+</application>

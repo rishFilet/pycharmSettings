@@ -1,0 +1,26 @@
+<application>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/rishi_code/bugbashapp/venv/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.7" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/rishi_code/bugbashapp/venv/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/rishi_code/bugbashapp/venv/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.7" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
