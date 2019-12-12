@@ -4,10 +4,17 @@
     <property name="created">2018-12-03T10:43:12</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-12-11T19:08:44</property>
+    <property name="modified">2019-12-11T19:59:41</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
@@ -24,6 +31,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
